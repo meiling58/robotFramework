@@ -2,14 +2,6 @@
 Define Global Variables
 """
 
-# Define WebDriver
-Chorme = "chrome"
-Edge = "edge"
-Firefox = "ff"
-
-# Define URL
-paychexHome = "https://www.paychex.com"
-
 # common field - Header
 paychex_home_image = "//img[@alt='Home']"
 Our_Solutions = "//div[normalize-space()='Our Solutions']"
