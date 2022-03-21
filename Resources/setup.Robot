@@ -1,5 +1,6 @@
 *** Setting ***
 Library SeleniumLibrary
+Variables  ../PO/setup.py
 
 *** Keywords ***
 Before Test
